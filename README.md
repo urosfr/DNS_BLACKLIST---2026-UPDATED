@@ -23,12 +23,6 @@ Designed for DNS resolvers (Pi-hole, AdGuard, unbound, Technitium), hosts files,
 
 ### Installation / Usage
 
-#### Pi-hole / AdGuard Home
-1. Go to **Group Management → Adlists**
-2. Add this URL:  
-   `https://raw.githubusercontent.com/yourusername/yourdns-blacklist/main/domains.txt`
-3. Update gravity / apply changes
-
 #### Hosts file (Windows / macOS / Linux)
 Append or replace your system hosts file:
 - Windows: `C:\Windows\System32\drivers\etc\hosts`
