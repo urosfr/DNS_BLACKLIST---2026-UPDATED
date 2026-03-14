@@ -1,4 +1,4 @@
-# YourDNS-Blacklist  
+DNS-Blacklist  
 **Compact DNS / Hosts Blacklist for Privacy + Security**
 
 A lightweight, frequently updated blocklist focused on telemetry trackers, Microsoft spying domains, bad/malicious IPs, ads, malware C2, and privacy-invasive hosts.  
