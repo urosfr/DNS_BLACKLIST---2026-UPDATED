@@ -30,7 +30,6 @@ Designed for DNS resolvers (Pi-hole, AdGuard, unbound, Technitium), hosts files,
 3. Update gravity / apply changes
 
 #### Hosts file (Windows / macOS / Linux)
-Download: `https://raw.githubusercontent.com/yourusername/yourdns-blacklist/main/hosts`  
 Append or replace your system hosts file:
 - Windows: `C:\Windows\System32\drivers\etc\hosts`
 - Linux/macOS: `/etc/hosts`
